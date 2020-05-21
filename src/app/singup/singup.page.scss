@@ -1,0 +1,30 @@
+ion-card{
+     --background:white;
+}
+ion-content{
+    --ion-background-color:#F7CA18;
+}
+ion-item{
+    background: transparent;
+    --ion-background-color:white!important;
+    --background: transparent!important;
+    --border-color:transparent!important;
+    color:black;
+   font-size: 12px!important;
+  border-bottom: 1px solid #581845 !important;
+  
+}
+ion-card-title{
+    color:black;
+   --background:#F7CA18;
+}
+ion-button{
+    margin-left:5.5rem;
+    --background:black;
+}
+.header{
+    --background:#F7CA18!important;
+}
+ion-back-button{
+    color:black;
+}

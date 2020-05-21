@@ -1,0 +1,32 @@
+img{
+    margin-top:5rem;
+    width:30%;
+    height:30%;
+    margin-left:34%;
+  
+  }
+  ion-item{
+    background: transparent;
+    --ion-background-color:white!important;
+    --background: transparent!important;
+    --border-color:transparent!important;
+    color:black;
+   font-size: 12px!important;
+  border-bottom: 1px solid #581845 !important;
+  max-width: 65%;
+  margin-left:20%;
+  
+}
+ion-button{
+    margin-left:5.5rem;
+    --background:black;
+}
+.header{
+    --background:#F7CA18!important;
+}
+ion-back-button{
+    color:black;
+}
+ion-content{
+    --ion-background-color:#F7CA18;
+}
